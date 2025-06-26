@@ -1,2 +1,14 @@
-# QA-Portfolio
-Мое портфолио тестировщика ПО
+# QA Engineer Portfolio  
+## Обо мне  
+Привет! Я начинающий QA-инженер, окончил курсы по тестированию ПО.  
+
+## Навыки  
+- Ручное тестирование (Web, Mobile)  
+- Тест-кейсы, баг-репорты  
+- Postman, DevTools  
+- Основы Python + Selenium  
+
+## Проекты  
+### 1. Тестирование интернет-магазина  
+- [Тест-кейсы](Test-Cases/E-commerce_test_cases.xlsx)  
+- [Баг-репорты](Bug-Reports/bug_report_1.pdf)  
